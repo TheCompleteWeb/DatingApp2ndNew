@@ -14,7 +14,6 @@ export class AlertifyService {
       if (e) {
         okCallback();
       } else {
-
       }
     });
   }
